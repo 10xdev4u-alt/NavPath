@@ -1,0 +1,3 @@
+# Custom rosdep rules
+python3-loguru:
+  ubuntu: [python3-loguru]
