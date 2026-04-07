@@ -1,0 +1,5 @@
+system:
+  name: "NavPath"
+sensors:
+  lidar:
+    port: "/dev/ttyUSB0"
