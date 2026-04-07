@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.env
+
+# ROS2
+install/
+build/
+log/
+
+# Node
+node_modules/
+dist/
+
+# IDEs
+.vscode/
+.idea/
