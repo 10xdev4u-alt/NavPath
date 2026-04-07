@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>navpath_core</name>
+  <version>0.1.0</version>
+  <description>NavPath core functionality</description>
+  <maintainer email="10xdev4u@gmail.com">10xdev4u-alt</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <export><build_type>ament_cmake</build_type></export>
+</package>
